@@ -1,1 +1,1 @@
-# guli_mall
+# gulimall
